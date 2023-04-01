@@ -596,14 +596,14 @@
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>saharacompany@gmail.com<br>contact@example.com</p>
+                  <p>saharacompany@gmail.com<br>gowork@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+62 8128 55488<br>+62 8127 444541</p>
                 </div>
               </div>
             </div>
