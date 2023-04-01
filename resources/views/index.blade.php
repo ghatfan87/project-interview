@@ -674,12 +674,12 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Presento<span>.</span></h3>
+            <h3>GoWork.<span>.</span></h3>
             <p>
               A108 Tajur Street <br>
               Bogor,West  Java<br>
               Indonesia <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <strong>Phone:</strong> +62 8128 55488 55<br>
               <strong>Email:</strong>saharacompany@gmail.com<br>
             </p>
           </div>
